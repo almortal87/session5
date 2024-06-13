@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b45f1d84-f1a7-445b-b133-5f451071bf52" name="Changes" comment="session 5/bryan">
+    <list default="true" id="b45f1d84-f1a7-445b-b133-5f451071bf52" name="Changes" comment="session 5/bryan-2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,8 @@
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/alan.arandia/IdeaProjects/session5/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,12 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718307604807</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="session 5/bryan-2">
+      <option name="closed" value="true" />
+      <created>1718307664071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718307664071</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="session 5/bryan" />
-    <option name="LAST_COMMIT_MESSAGE" value="session 5/bryan" />
+    <MESSAGE value="session 5/bryan-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="session 5/bryan-2" />
   </component>
 </project>
